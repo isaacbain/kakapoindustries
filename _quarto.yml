@@ -20,3 +20,6 @@ format:
 
 editor: visual
 
+resources:
+  - images/
+
