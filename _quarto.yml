@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Kakapo Industries"
+  title: "Kākāpō Industries"
   favicon: images/kakapo-logo.png
   navbar:
     logo: images/kakapo-logo.png
     left:
       - href: index.qmd
         text: Home
+      - text: "Catchment groups"
+        href: catchment-groups.qmd
+    right: 
       - about.qmd
 
 format:
   html:
-    theme: sketchy
+    theme: superhero
     css: styles.css
     toc: true
 
