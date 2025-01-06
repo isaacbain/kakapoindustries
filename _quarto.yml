@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "kakapoindustries"
+  title: "Kakapo Industries"
+  favicon: images/kakapo-logo.png
   navbar:
+    logo: images/kakapo-logo.png
     left:
       - href: index.qmd
         text: Home
