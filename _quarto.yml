@@ -13,7 +13,10 @@ website:
       - text: "Catchment groups"
         href: catchment-groups.qmd
     right: 
-      - about.qmd
+      - href: about.qmd
+        text: "About us"
+      - href: contact.qmd
+        text: "Contact us"
 
 format:
   html:
