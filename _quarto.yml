@@ -10,9 +10,21 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "Catchment groups"
-        href: catchment-groups.qmd
+      - text: "3D topographic models"
+        menu:
+          - text: "Custom 3D models"
+            href: 3d-models.qmd
+          - text: "For catchment groups"
+            href: catchment-groups.qmd
+          - text: "For regional councils"
+            href: regional-councils.qmd
+          - text: "FAQs"
+            href: faqs.qmd
     right: 
+      - text: "Etsy Shop"
+        icon: bag-heart
+        href: https://www.etsy.com/nz/shop/KakapoIndustries
+        target: _blank
       - href: about.qmd
         text: "About us"
       - href: contact.qmd
@@ -23,6 +35,7 @@ format:
     theme: superhero
     css: styles.css
     toc: true
+    fontawesome: true
 
 editor: visual
 
