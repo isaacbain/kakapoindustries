@@ -1,9 +1,41 @@
 /* css styles */
 
+.banner {
+  width: 100%;
+  height: 220px; /* Adjust height as needed */
+  background-image: url('images/home-banner.jpg');
+  background-size: cover; /* Ensures the image covers the entire area */
+  background-position: center; /* Centers the image */
+}
+
 .banner2 {
   width: 100%;
   height: 250px; /* Adjust height as needed */
   background-image: url('images/port-hills.jpg');
+  background-size: cover; /* Ensures the image covers the entire area */
+  background-position: center; /* Centers the image */
+}
+
+.banner3 {
+  width: 100%;
+  height: 250px; /* Adjust height as needed */
+  background-image: url('images/karamea.jpeg');
+  background-size: cover; /* Ensures the image covers the entire area */
+  background-position: center; /* Centers the image */
+}
+
+.banner4 {
+  width: 100%;
+  height: 250px; /* Adjust height as needed */
+  background-image: url('images/otama-satellite.png');
+  background-size: cover; /* Ensures the image covers the entire area */
+  background-position: center; /* Centers the image */
+}
+
+.banner5 {
+  width: 100%;
+  height: 250px; /* Adjust height as needed */
+  background-image: url('images/whanganui.jpg');
   background-size: cover; /* Ensures the image covers the entire area */
   background-position: center; /* Centers the image */
 }

@@ -25,7 +25,7 @@
     "href": "catchment-groups.html#whats-this-going-to-cost-me",
     "title": "3D-printed models for catchment groups",
     "section": "What’s this going to cost me?",
-    "text": "What’s this going to cost me?\nOption 1: If you have access to a 3D printer through your local library, makerspace, or community, I can assist you with making an .STL file that you can print yourself.\nOption 2: Due to popular demand, I can also now offer to 3D print these models for you. Some people can’t access a 3D printer, want a multi-colour model, or simply want a ready-made product without the hassle. I’m happy to print one of my designs for your group (or multiple copies if your group’s members want their own).\nPricing is heavily discounted for catchment groups and mainly designed to cover my consumable costs. Commercial-grade 3D printers don’t come cheap, and I’ve got other direct costs like filament, power, and maintenance. One of these models typically ties up my printer for 8-12 hours.\n\n\n\n\n\nOtama\n\n\nI can provide an exact quote, which will depend on the size, complexity, etc. But for indicative pricing, expect in the $50-$100 range per model.\nOption 3: If you’re not a catchment group or simply want one for your personal use, discounted pricing doesn’t apply. However, I’d still love to make one for you! In fact, the more paying customers I have, the more non-profit groups I can support. Please get in touch and I can provide a quote based on the complexity of the design.\nI’m located in Christchurch and can post anywhere. Please allow 2-3 weeks lead time.\n\n\n\n\n\nUpper Ruamahanga"
+    "text": "What’s this going to cost me?\nOption 1: If you have access to a 3D printer through your local library, makerspace, or community, I can assist you with making an .STL file that you can print yourself.\nOption 2: Due to popular demand, I can also now offer to 3D print these models for you. Some people can’t access a 3D printer, want a multi-colour model, or simply want a ready-made product without the hassle. I’m happy to print one of my designs for your group (or multiple copies if your group’s members want their own).\nPricing is heavily discounted for catchment groups and mainly designed to cover my consumable costs. Commercial-grade 3D printers don’t come cheap, and I’ve got other direct costs like filament, power, and maintenance. One of these models typically ties up my printer for 8-12 hours.\n\n\n\n\n\nWhangateau\n\n\nI can provide an exact quote, which will depend on the size, complexity, etc. But for indicative pricing, expect in the $50-$100 range per model.\nOption 3: If you’re not a catchment group or simply want one for your personal use, discounted pricing doesn’t apply. However, I’d still love to make one for you! In fact, the more paying customers I have, the more non-profit groups I can support. Please get in touch and I can provide a quote based on the complexity of the design.\nI’m located in Christchurch and can post anywhere. Please allow 2-3 weeks lead time.\n\n\n\n\n\nUpper Ruamahanga"
   },
   {
     "objectID": "catchment-groups.html#i-want-something-completely-customcan-you-do-that",
@@ -53,34 +53,90 @@
     "href": "faqs.html",
     "title": "Frequently asked questions",
     "section": "",
-    "text": "Coming soon."
+    "text": "What materials do you use for 3D printing?\nWe use plant-based PLA filament (made from renewable biomass sources such as cornstarch or sugarcane), which is eco-friendly and allows for multi-colour printing to highlight specific features of your model.\n\nWhat is the typical size of a 3D model?\nOur models are custom-sized to suit your needs, whether you want a smaller desktop display or a large-format model. We’ll discuss size options during the consultation.\n\nHow long does it take to create a model?\nOn average, it takes 2–4 weeks to complete a model, depending on its complexity and the size of the area. We’ll provide an estimated timeline during the consultation.\n\nCan you customise the model features (e.g., points of interest, colours)?\nYes! We can use custom colour schemes, or highlight specific features like rivers, land boundaries, or monitoring sites.\n\nHow do you ensure sustainability?\nOur models are printed right here in New Zealand, using bio-based PLA filaments. Similarly, we ship using either PLA or recycled plastic courier bags, and use paper-based packaging instead of bubble wrap."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact us",
     "section": "",
-    "text": "Want to send us an email or place a custom order? Get in contact at info@kakapoindustries.com\nWe are located in Ōtautahi (Christchurch), New Zealand. All products are manufactured locally."
+    "text": "Want to send us an email or place a custom order? Get in contact at info@kakapoindustries.com\nWe are located in Ōtautahi (Christchurch), New Zealand."
   },
   {
     "objectID": "3d-models.html",
     "href": "3d-models.html",
-    "title": "3D topographic models",
+    "title": "Custom 3D topographic models",
     "section": "",
-    "text": "Coming soon."
+    "text": "Waimakariri, Selwyn, Te Waihora, Takamatua, Rakaia catchments\nHere at Kākāpō Industries, we specialise in crafting bespoke 3D topographic and bathymetric models for your particular area of interest. Whether that’s a freshwater catchment, property parcel, management unit, or another specific boundary, we can make it happen.\n(we also occasionally have ready-made models in our shop)"
+  },
+  {
+    "objectID": "3d-models.html#why-choose-us",
+    "href": "3d-models.html#why-choose-us",
+    "title": "Custom 3D topographic models",
+    "section": "Why Choose Us?",
+    "text": "Why Choose Us?\nWe combine state-of-the-art tools with expert craftsmanship to deliver exceptional results:\n\nHigh-resolution GIS data for precise geographical accuracy.\nLiDAR elevation imagery to capture intricate terrain details.\nCustomised modelling to meet your precise requirements.\nMulti-colour 3D printing using eco-friendly, plant-based PLA filament.\n\n\n\n\n\n\nTiffin Hill\n\n\nWe’ve delivered custom models to over 100 satisfied clients, who use them for a diverse range of purposes, including: environmental planning and management, community engagement, educational and scientific visualisation, and of course, displaying as unique and eye-catching artwork!"
+  },
+  {
+    "objectID": "3d-models.html#the-process",
+    "href": "3d-models.html#the-process",
+    "title": "Custom 3D topographic models",
+    "section": "The Process",
+    "text": "The Process\n\n\n\n\n\nZealandia continent\n\n\n\nConsultation: We’ll start off by getting you to share your area of interest and requirements with us. We can derive catchment boundaries for anywhere in the country, or you can provide your own shapefiles for custom areas.\nData Sourcing: Using national datasets or your supplied data, we gather the necessary high-resolution GIS and LiDAR data. Which may include rivers, roads, vegetation and other landcover data.\nModel Design: Our team crafts a bespoke 3D model based on your specifications, and shares renderings for your approval before printing.\nDelivery: Your completed model is carefully packaged in sustainable materials and couriered anywhere in New Zealand."
+  },
+  {
+    "objectID": "3d-models.html#get-started-today",
+    "href": "3d-models.html#get-started-today",
+    "title": "Custom 3D topographic models",
+    "section": "Get Started Today!",
+    "text": "Get Started Today!\nLet us bring your project to life with a custom 3D model. Contact us today to discuss your needs and start your journey with Kākāpō Industries."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome.",
     "section": "",
-    "text": "At Kākāpō Industries, we bring the beauty of the natural world into your hands. Using cutting-edge 3D printing technology, we create physical cartographic models, specialising in 3D topography and bathymetry that capture the stunning contours of our landscapes.\nWhether you’re an environmental organisation, regional council, educator, or outdoor enthusiast, our models are perfect for showcasing terrain, visualising catchments, or simply celebrating the land we call home.\nFounded in Aotearoa New Zealand by Isaac Bain, our mission is to make geography tangible—one layer at a time.\nExplore the land like never before. 🌿 Discover our models today."
+    "text": "At Kākāpō Industries, we bring the beauty of the natural world into your hands. Using cutting-edge 3D printing technology, we create physical cartographic models, specialising in 3D topography and bathymetry that capture the stunning contours of our landscapes.\nWhether you’re an environmental organisation, regional council, educator, or outdoor enthusiast, our models are perfect for showcasing terrain, visualising catchments, or simply celebrating the land we call home.\nExplore the land like never before. 🌿 Discover our models today."
   },
   {
     "objectID": "regional-councils.html",
     "href": "regional-councils.html",
-    "title": "Regional councils",
+    "title": "Empowering Regional Councils with 3D Models",
     "section": "",
-    "text": "Coming soon."
+    "text": "Hawke’s Bay Regional boundary elevation model, with rivers, streams and lakes.\nAt Kākāpō Industries, we understand the critical role regional councils play in fostering community engagement and promoting sustainable management of natural resources. Our custom 3D topographic and bathymetric models provide an innovative, visually engaging way to communicate complex spatial data to diverse audiences and communities."
+  },
+  {
+    "objectID": "regional-councils.html#why-3d-models-for-community-engagement",
+    "href": "regional-councils.html#why-3d-models-for-community-engagement",
+    "title": "Empowering Regional Councils with 3D Models",
+    "section": "Why 3D Models for community engagement?",
+    "text": "Why 3D Models for community engagement?\n\n\n\n\n\nOtago and Southland regions\n\n\nInteractive maps and technical reports can be overwhelming for many stakeholders. A physical 3D model bridges this gap, offering a tangible representation of the landscape that is:\n\nIntuitive and Accessible: Ideal for public meetings and consultations.\n\nEye-catching: Draws attention and fosters curiosity.\n\nEducational: Helps communities understand key environmental challenges."
+  },
+  {
+    "objectID": "regional-councils.html#applications-for-regional-councils",
+    "href": "regional-councils.html#applications-for-regional-councils",
+    "title": "Empowering Regional Councils with 3D Models",
+    "section": "Applications for Regional Councils",
+    "text": "Applications for Regional Councils\nOur 3D models have been successfully used by regional councils for:\n\n\n\n\n\nPokaiwhenua catchment\n\n\n\nCatchment Management: Visualising water flow, sedimentation zones, and flood-prone areas.\n\nLand Use Planning: Illustrating proposed developments or conservation projects.\n\nClimate Change Adaptation: Communicating the impacts of sea-level rise or flooding on local landscapes.\n\nBiodiversity Initiatives: Highlighting critical habitats and restoration efforts, including riparian planting."
+  },
+  {
+    "objectID": "regional-councils.html#why-work-with-kākāpō-industries",
+    "href": "regional-councils.html#why-work-with-kākāpō-industries",
+    "title": "Empowering Regional Councils with 3D Models",
+    "section": "Why Work with Kākāpō Industries?",
+    "text": "Why Work with Kākāpō Industries?\nWe combine advanced GIS and LiDAR technology with multi-colour 3D printing to produce highly detailed and customisable models. Each model is tailored to your needs, whether it’s for:\n- Public Consultations: Simplify communication of technical data to the public.\n- Educational Workshops: Engage schools and community groups with hands-on learning tools.\n- Permanent Displays: Create durable, visually appealing centrepieces for council offices or visitor centres."
+  },
+  {
+    "objectID": "regional-councils.html#freshwater-management-units",
+    "href": "regional-councils.html#freshwater-management-units",
+    "title": "Empowering Regional Councils with 3D Models",
+    "section": "Freshwater management units",
+    "text": "Freshwater management units\n\n\n\n\n\nHawke’s Bay region separated into 11 FMUs\n\n\nOne of our specialities, especially for making larger models, is to print multiple sub-catchments or FMUs at the same scale so that they fit together like a natural jigsaw puzzle. This allows you to differentiate the various FMUs in your region, or take individual pieces to engage with particular communities."
+  },
+  {
+    "objectID": "regional-councils.html#lets-work-together",
+    "href": "regional-councils.html#lets-work-together",
+    "title": "Empowering Regional Councils with 3D Models",
+    "section": "Let’s Work Together",
+    "text": "Let’s Work Together\nTransform how you engage with your community. Contact us today to discuss your next project and discover how our 3D models can empower your council’s outreach efforts. We’re happy to work directly with your GIS team and can handle a vast array of file formats."
   }
 ]

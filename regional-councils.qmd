@@ -1,5 +1,53 @@
 ---
-title: "Regional councils"
+title: "Empowering Regional Councils with 3D Models"
+lightbox: true
 ---
 
-Coming soon.
+![Hawke's Bay Regional boundary elevation model, with rivers, streams and lakes.](images/hbrc.jpeg){fig-align="left" width="500"}
+
+At **Kākāpō Industries**, we understand the critical role regional councils play in fostering community engagement and promoting sustainable management of natural resources. Our custom **3D topographic and bathymetric models** provide an innovative, visually engaging way to communicate complex spatial data to diverse audiences and communities.
+
+## Why 3D Models for community engagement?
+
+::: column-margin
+![Otago and Southland regions](images/otago-southland.jpeg)
+:::
+
+Interactive maps and technical reports can be overwhelming for many stakeholders. A **physical 3D model** bridges this gap, offering a tangible representation of the landscape that is:  
+
+- **Intuitive and Accessible**: Ideal for public meetings and consultations.  
+- **Eye-catching**: Draws attention and fosters curiosity.  
+- **Educational**: Helps communities understand key environmental challenges.  
+
+## Applications for Regional Councils  
+
+Our 3D models have been successfully used by regional councils for:  
+
+::: column-margin
+![Pokaiwhenua catchment](images/pokaiwhenua.jpeg)
+:::
+
+- **Catchment Management**: Visualising water flow, sedimentation zones, and flood-prone areas.  
+- **Land Use Planning**: Illustrating proposed developments or conservation projects.  
+- **Climate Change Adaptation**: Communicating the impacts of sea-level rise or flooding on local landscapes.  
+- **Biodiversity Initiatives**: Highlighting critical habitats and restoration efforts, including riparian planting.  
+
+## Why Work with Kākāpō Industries?  
+
+We combine advanced GIS and LiDAR technology with multi-colour 3D printing to produce highly detailed and customisable models. Each model is tailored to your needs, whether it’s for:  
+- **Public Consultations**: Simplify communication of technical data to the public.  
+- **Educational Workshops**: Engage schools and community groups with hands-on learning tools.  
+- **Permanent Displays**: Create durable, visually appealing centrepieces for council offices or visitor centres.  
+
+## Freshwater management units
+
+::: column-margin
+![Hawke's Bay region separated into 11 FMUs](images/hbrc-pieces.jpeg)
+:::
+
+One of our specialities, especially for making larger models, is to print multiple sub-catchments or FMUs at the same scale so that they fit together like a natural jigsaw puzzle. This allows you to differentiate the various FMUs in your region, or take individual pieces to engage with particular communities. 
+
+
+## Let’s Work Together  
+
+Transform how you engage with your community. [Contact us](contact.qmd) today to discuss your next project and discover how our 3D models can empower your council’s outreach efforts. We're happy to work directly with your GIS team and can handle a vast array of file formats. 

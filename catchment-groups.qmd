@@ -1,5 +1,6 @@
 ---
 title: "3D-printed models for catchment groups"
+lightbox: true
 ---
 
 ::: banner2
@@ -45,7 +46,7 @@ Another option is to print multiple sub-catchments separately, the largest of wh
 Pricing is heavily discounted for catchment groups and mainly designed to cover my consumable costs. Commercial-grade 3D printers don't come cheap, and I've got other direct costs like filament, power, and maintenance. One of these models typically ties up my printer for 8-12 hours.
 
 ::: column-margin
-![Otama](images/otama.jpeg)
+![Whangateau](images/otama.jpeg)
 :::
 
 I can provide an exact quote, which will depend on the size, complexity, etc. But for indicative pricing, expect in the \$50-\$100 range per model.

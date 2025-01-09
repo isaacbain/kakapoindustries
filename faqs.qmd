@@ -1,5 +1,32 @@
 ---
 title: "Frequently asked questions"
+lightbox: true
 ---
 
-Coming soon.
+::: banner4
+:::
+
+\
+**What materials do you use for 3D printing?**
+
+We use plant-based PLA filament (made from renewable biomass sources such as cornstarch or sugarcane), which is eco-friendly and allows for multi-colour printing to highlight specific features of your model.
+
+\
+**What is the typical size of a 3D model?**
+
+Our models are custom-sized to suit your needs, whether you want a smaller desktop display or a large-format model. We’ll discuss size options during the consultation.
+
+\
+**How long does it take to create a model?**
+
+On average, it takes 2–4 weeks to complete a model, depending on its complexity and the size of the area. We’ll provide an estimated timeline during the consultation.
+
+\
+**Can you customise the model features (e.g., points of interest, colours)?**
+
+Yes! We can use custom colour schemes, or highlight specific features like rivers, land boundaries, or monitoring sites.
+
+\
+**How do you ensure sustainability?**
+
+Our models are printed right here in New Zealand, using bio-based PLA filaments. Similarly, we ship using either PLA or recycled plastic courier bags, and use paper-based packaging instead of bubble wrap.

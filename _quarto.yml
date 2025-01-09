@@ -5,6 +5,7 @@ project:
 website:
   title: "Kākāpō Industries"
   favicon: images/kakapo-logo.png
+  page-footer: "© Copyright 2025, Kākāpō Industries" 
   navbar:
     logo: images/kakapo-logo.png
     left:
