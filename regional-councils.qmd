@@ -1,5 +1,5 @@
 ---
-title: "Empowering Regional Councils with 3D Models"
+title: "3D-printed models for regional councils"
 lightbox: true
 ---
 
@@ -35,6 +35,7 @@ Our 3D models have been successfully used by regional councils for:
 ## Why Work with Kākāpō Industries?  
 
 We combine advanced GIS and LiDAR technology with multi-colour 3D printing to produce highly detailed and customisable models. Each model is tailored to your needs, whether it’s for:  
+
 - **Public Consultations**: Simplify communication of technical data to the public.  
 - **Educational Workshops**: Engage schools and community groups with hands-on learning tools.  
 - **Permanent Displays**: Create durable, visually appealing centrepieces for council offices or visitor centres.  
