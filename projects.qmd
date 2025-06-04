@@ -2,7 +2,7 @@
 title: "Project gallery"
 listing:
   contents: posts
-  sort: "date desc"
+  sort: "title asc"
   type: grid
   categories: false
 ---

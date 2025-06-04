@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Project gallery – Kākāpō Industries</title>
+<title>3D-printed models for catchment groups – Kākāpō Industries</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./images/kakapo-logo.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -43,6 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-6964cec736b65266f614e8c6f7b9f238.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,65 +71,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -185,7 +128,7 @@ window.Quarto = {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" aria-current="page"> 
+    <a class="nav-link" href="./projects.html"> 
 <span class="menu-text">Project gallery</span></a>
   </li>  
 </ul>
@@ -214,15 +157,25 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#whats-the-point-in-a-3d-printed-model" id="toc-whats-the-point-in-a-3d-printed-model" class="nav-link active" data-scroll-target="#whats-the-point-in-a-3d-printed-model">What’s the point in a 3D printed model?</a></li>
+  <li><a href="#how-big-are-they" id="toc-how-big-are-they" class="nav-link" data-scroll-target="#how-big-are-they">How big are they?</a></li>
+  <li><a href="#whats-this-going-to-cost-me" id="toc-whats-this-going-to-cost-me" class="nav-link" data-scroll-target="#whats-this-going-to-cost-me">What’s this going to cost me?</a></li>
+  <li><a href="#i-want-something-completely-customcan-you-do-that" id="toc-i-want-something-completely-customcan-you-do-that" class="nav-link" data-scroll-target="#i-want-something-completely-customcan-you-do-that">I Want Something Completely Custom—Can You Do That?</a></li>
+  <li><a href="#okay-i-want-one.-how-does-the-process-work" id="toc-okay-i-want-one.-how-does-the-process-work" class="nav-link" data-scroll-target="#okay-i-want-one.-how-does-the-process-work">Okay, I want one. How does the process work?</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Project gallery</h1>
+<h1 class="title">3D-printed models for catchment groups</h1>
 </div>
 
 
@@ -239,205 +192,104 @@ window.Quarto = {
 </header>
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1749016273464" data-listing-reading-time-sort="1" data-listing-word-count-sort="13">
-<a href="./posts/Antarctica/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/Antarctica/images/antarctica.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Antarctica
-</h5>
-<div class="card-text listing-description delink">
-3D model of the Antarctic continent, surrounding ice-shelves, and the Southern Ocean Bathymetry.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+<div class="banner2">
 
 </div>
+<p><br>
+<em>Have you found your way here because you’re part of a catchment group and interested in a 3D-printed topographic model of your catchment? If so, you’re in the right place.</em><br>
+</p>
+<section id="whats-the-point-in-a-3d-printed-model" class="level2">
+<h2 class="anchored" data-anchor-id="whats-the-point-in-a-3d-printed-model">What’s the point in a 3D printed model?</h2>
+<p>In a previous <a href="https://isaacbain.com/posts/upper-ruamahanga/">post</a>, I described these models as a “<em>tangible, miniature representations of the landscape that you can hold in your hands</em>.” They’re definitely not going to change the world, but they might serve as a conversation starter as you gather around the table to talk about your environmental goals and aspirations.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/canterbury-models.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Koukourarata / Port Levy, Te Roto o Wairewa / Lake Forsyth, Te Waihora / Lake Ellesmere"><img src="images/canterbury-models.jpg" class="img-fluid figure-img" alt="Koukourarata / Port Levy, Te Roto o Wairewa / Lake Forsyth, Te Waihora / Lake Ellesmere"></a></p>
+<figcaption>Koukourarata / Port Levy, Te Roto o Wairewa / Lake Forsyth, Te Waihora / Lake Ellesmere</figcaption>
+</figure>
 </div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1749015663930" data-listing-reading-time-sort="1" data-listing-word-count-sort="13">
-<a href="./posts/Mt-Cook/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/Mt-Cook/images/mt-cook.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Aoraki / Mt Cook
-</h5>
-<div class="card-text listing-description delink">
-This 3D model embodies New Zealand’s tallest mountain - Aoraki / Mt Cook.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+<p>These models offer a less abstract view of the landscape compared to a 2D paper map, focusing on elevation to reduce distractions. For visual thinkers, they can reveal connections and scales otherwise only visible from a helicopter.</p>
+<p>By mapping the entire catchment, the model embodies the concept of <em>Ki uta ki tai</em>—a te ao Māori perspective on integrated, indivisible land and river management, from the mountains to the sea.</p>
+<p>And they’re just damn cool.</p>
+</section>
+<section id="how-big-are-they" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="how-big-are-they">How big are they?</h2>
 
+<div class="no-row-height column-margin column-container"><div class="">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/puketoi-separate.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Puketoi FMU made up of Akitio, Owahanga and Wainui catchments"><img src="images/puketoi-separate.jpg" class="img-fluid figure-img" alt="Puketoi FMU made up of Akitio, Owahanga and Wainui catchments"></a></p>
+<figcaption>Puketoi FMU made up of Akitio, Owahanga and Wainui catchments</figcaption>
+</figure>
 </div>
+</div><div class="">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/puketoi-assembled.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3" title="Puketoi FMU assembled"><img src="images/puketoi-assembled.jpg" class="img-fluid figure-img" alt="Puketoi FMU assembled"></a></p>
+<figcaption>Puketoi FMU assembled</figcaption>
+</figure>
 </div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1749018929927" data-listing-reading-time-sort="1" data-listing-word-count-sort="15">
-<a href="./posts/Arctic/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/Arctic/images/arctic.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Arctic
-</h5>
-<div class="card-text listing-description delink">
-A complementary pairing to the Antarctica model, this 3D topo/bathy model displays the Arctic north.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+</div></div>
+<p>My standard sized model is around 200mm long. This is a good size to hold in your hand or pass around.</p>
+<p>If you want a bigger model, my printer can print up to ~300mm long in a single printed block. If you want larger than this, I can print multiple blocks which are either glued together or snap together with a dovetail joint. This is a bit more work, but it’s definitely possible.</p>
+<p>Another option is to print multiple sub-catchments separately, the largest of which can take up the maximum size of the printer. If these sub-catchments are printed at a common scale, they should fit together like a jigsaw puzzle.</p>
+</section>
+<section id="whats-this-going-to-cost-me" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="whats-this-going-to-cost-me">What’s this going to cost me?</h2>
+<p>Please <a href="https://isaacbain.com/contact">get in touch</a> and I can provide a quote based on the complexity of the design. Pricing is heavily discounted for catchment groups and mainly designed to cover my consumable costs.</p>
+<p>I’m located in Christchurch and can post anywhere. Please allow 2-3 weeks lead time.</p>
 
+<div class="no-row-height column-margin column-container"><div class="">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/otama.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Whangateau"><img src="images/otama.jpeg" class="img-fluid figure-img" alt="Whangateau"></a></p>
+<figcaption>Whangateau</figcaption>
+</figure>
 </div>
+</div><div class="">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/ruamahanga-model.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Upper Ruamahanga"><img src="images/ruamahanga-model.png" class="img-fluid figure-img" alt="Upper Ruamahanga"></a></p>
+<figcaption>Upper Ruamahanga</figcaption>
+</figure>
 </div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1749020227680" data-listing-reading-time-sort="1" data-listing-word-count-sort="20">
-<a href="./posts/Lake-Hawea/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/Lake-Hawea/images/IMG_0673.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lake Hawea
-</h5>
-<div class="card-text listing-description delink">
-Stunning 3D catchment model of the Lake Hawea catchment, four colours highlighting the braided rivers, lake, native vegetation and snowline.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+</div></div>
+</section>
+<section id="i-want-something-completely-customcan-you-do-that" class="level2">
+<h2 class="anchored" data-anchor-id="i-want-something-completely-customcan-you-do-that">I Want Something Completely Custom—Can You Do That?</h2>
+<p>Probably! Get in touch and let’s figure it out. Some requests I’ve already had include:</p>
+<ul>
+<li>Larger prints comprised of multiple blocks</li>
+<li>Commercial projects for businesses or councils</li>
+<li>Personal requests for individuals</li>
+<li>Preparing files for laser cutting or CNC routing</li>
+<li>Sub-catchments that fit together like a jigsaw puzzle</li>
+</ul>
+</section>
+<section id="okay-i-want-one.-how-does-the-process-work" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="okay-i-want-one.-how-does-the-process-work">Okay, I want one. How does the process work?</h2>
 
+<div class="no-row-height column-margin column-container"><div class="">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/ruakituri-model.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-6" title="Ruakituri"><img src="images/ruakituri-model.jpeg" class="img-fluid figure-img" alt="Ruakituri"></a></p>
+<figcaption>Ruakituri</figcaption>
+</figure>
 </div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1749019858350" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
-<a href="./posts/Lake-Waikaremoana/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/Lake-Waikaremoana/images/IMG_0217.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lake Waikaremoana
-</h5>
-<div class="card-text listing-description delink">
-3D model of the Lake Waikaremoana catchment, nestled deep in Te Urewera. Also not to be missed is Lake Waikareiti - which has an island, with a lake, inside a lake.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+</div></div><p>Fantastic! I’m here to help make this a reality. Here are the steps to consider:</p>
+<ol type="1">
+<li><strong>Location:</strong> The catchment must be in New Zealand. Anywhere in New Zealand is fine, but very small catchments may require LiDAR data, which isn’t available everywhere.</li>
+<li><strong>Define your area of interest:</strong> This doesn’t have to be a hydrological catchment. It can be a square, circle, sub-catchment, FMU, or multiple catchments. Any contiguous boundary works.</li>
+<li><strong>Obtain a shapefile:</strong> It’s easiest if you can provide a GIS shapefile (.shp) of your area of interest. Otherwise if it’s a catchment, I can likely derive this for you.</li>
+<li><strong>Get in touch:</strong> Fill out this <a href="https://forms.gle/nat3uHCC3ToFtX8j8">Google form</a>:<br>
+<br>
+</li>
+</ol>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxTbwctyqajju26YE2D4qX685ynVbVqetHrwCosQPANzd90g/viewform?embedded=true" width="640" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1749019855143" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
-<a href="./posts/Mt-Karioi/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/Mt-Karioi/images/IMG_0306.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Mt Karioi
-</h5>
-<div class="card-text listing-description delink">
-The striking Mount Karioi, 756m, near Raglan in the mighty Waikato.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1749016092053" data-listing-reading-time-sort="1" data-listing-word-count-sort="12">
-<a href="./posts/Rotorua-lakes/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/Rotorua-lakes/images/rotorua-lakes.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Rotorua lakes
-</h5>
-<div class="card-text listing-description delink">
-The Rotorua Lakes area has an abundance of lakes and geothermal features.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+</section>
 
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1749018802951" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="./posts/Sounds-to-Sounds/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/Sounds-to-Sounds/images/sounds2sounds.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Sounds to Sounds
-</h5>
-<div class="card-text listing-description delink">
-Sounds to Sounds is a 1500km bikepacking race from Marlborough Sounds to Milford Sound.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1749019208982" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<a href="./posts/Waitaki/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/Waitaki/images/IMG_1119.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Waitaki catchment
-</h5>
-<div class="card-text listing-description delink">
-3D catchment model of the Waitaki River, featuring large alpine lakes, braided rivers, and a snowline to accentuate the mountains.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1749015308153" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
-<a href="./posts/Zealandia/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="posts/Zealandia/images/zealandia.jpeg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Zealandia
-</h5>
-<div class="card-text listing-description delink">
-This combined topographic and bathymetric 3D model highlights the Earth’s eighth continent - Zealandia / Te Riu-a-Māui.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -851,6 +703,38 @@ This combined topographic and bathymetric 3D model highlights the Earth’s eigh
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

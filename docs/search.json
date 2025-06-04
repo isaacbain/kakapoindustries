@@ -98,18 +98,25 @@
     "text": "What materials do you use for 3D printing?\nWe use plant-based PLA filament, made from renewable biomass sources like cornstarch or sugarcane. It’s durable, eco-friendly, and supports multi-colour printing—ideal for highlighting specific landscape features such as rivers, land boundaries, or zones.\n\nWhat is the typical size of a 3D model?\nEvery model is custom-sized to suit your requirements—from small desktop displays to large-format, multi-part models. We’ll help you determine the best scale and dimensions during the consultation.\n\nHow long does it take to create a model?\nMost models are completed within 2–4 weeks, depending on complexity, data availability, and print size. We’ll confirm your timeline as part of the initial project scoping.\n\nCan you customise the model features (e.g., points of interest, colours)?\nAbsolutely. We can highlight monitoring sites, catchments, land use zones, or infrastructure using custom colour palettes or added markers. Just let us know what matters to your audience.\n\nHow do you ensure sustainability?\nSustainability is at the core of both our materials and our ethos.\n\nWe print locally in Aotearoa using bio-based PLA\nPackaging uses recycled and paper-based materials—no bubble wrap\nShipping is done in recyclable or compostable courier bags"
   },
   {
-    "objectID": "posts/Rotorua-lakes/index.html",
-    "href": "posts/Rotorua-lakes/index.html",
-    "title": "Rotorua lakes",
+    "objectID": "posts/Lake-Waikaremoana/index.html",
+    "href": "posts/Lake-Waikaremoana/index.html",
+    "title": "Lake Waikaremoana",
     "section": "",
-    "text": "The Rotorua Lakes area has an abundance of lakes and geothermal features."
+    "text": "3D model of the Lake Waikaremoana catchment, nestled deep in Te Urewera. Also not to be missed is Lake Waikareiti - which has an island, with a lake, inside a lake."
   },
   {
-    "objectID": "posts/Waitaki/index.html",
-    "href": "posts/Waitaki/index.html",
-    "title": "Waitaki catchment",
+    "objectID": "posts/Zealandia/index.html",
+    "href": "posts/Zealandia/index.html",
+    "title": "Zealandia",
     "section": "",
-    "text": "3D catchment model of the Waitaki River, featuring large alpine lakes, braided rivers, and a snowline to accentuate the mountains.\nPrinted in 4 seamless tiles to increase the overall size, measures 500mm long."
+    "text": "This combined topographic and bathymetric 3D model highlights the Earth’s eighth continent - Zealandia / Te Riu-a-Māui."
+  },
+  {
+    "objectID": "posts/Lake-Hawea/index.html",
+    "href": "posts/Lake-Hawea/index.html",
+    "title": "Lake Hawea",
+    "section": "",
+    "text": "Stunning 3D catchment model of the Lake Hawea catchment, four colours highlighting the braided rivers, lake, native vegetation and snowline."
   },
   {
     "objectID": "posts/Mt-Cook/index.html",
@@ -117,6 +124,20 @@
     "title": "Aoraki / Mt Cook",
     "section": "",
     "text": "This 3D model embodies New Zealand’s tallest mountain - Aoraki / Mt Cook."
+  },
+  {
+    "objectID": "posts/Mt-Karioi/index.html",
+    "href": "posts/Mt-Karioi/index.html",
+    "title": "Mt Karioi",
+    "section": "",
+    "text": "The striking Mount Karioi, 756m, near Raglan in the mighty Waikato."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "Want to send us an email or place a custom order? Get in contact at info@kakapoindustries.com\nWe are located in Ōtautahi (Christchurch), New Zealand."
   },
   {
     "objectID": "3d-models.html",
@@ -161,13 +182,6 @@
     "text": "Get Started!\nLet’s turn your landscape into a lasting, physical model.\nContact us today to discuss your needs and start your journey with Kākāpō Industries."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact us",
-    "section": "",
-    "text": "Want to send us an email or place a custom order? Get in contact at info@kakapoindustries.com\nWe are located in Ōtautahi (Christchurch), New Zealand."
-  },
-  {
     "objectID": "posts/Arctic/index.html",
     "href": "posts/Arctic/index.html",
     "title": "Arctic",
@@ -182,11 +196,18 @@
     "text": "3D model of the Antarctic continent, surrounding ice-shelves, and the Southern Ocean Bathymetry."
   },
   {
-    "objectID": "posts/Zealandia/index.html",
-    "href": "posts/Zealandia/index.html",
-    "title": "Zealandia",
+    "objectID": "posts/Waitaki/index.html",
+    "href": "posts/Waitaki/index.html",
+    "title": "Waitaki catchment",
     "section": "",
-    "text": "This combined topographic and bathymetric 3D model highlights the Earth’s eighth continent - Zealandia / Te Riu-a-Māui."
+    "text": "3D catchment model of the Waitaki River, featuring large alpine lakes, braided rivers, and a snowline to accentuate the mountains.\nPrinted in 4 seamless tiles to increase the overall size, measures 500mm long."
+  },
+  {
+    "objectID": "posts/Rotorua-lakes/index.html",
+    "href": "posts/Rotorua-lakes/index.html",
+    "title": "Rotorua lakes",
+    "section": "",
+    "text": "The Rotorua Lakes area has an abundance of lakes and geothermal features."
   },
   {
     "objectID": "posts/Sounds-to-Sounds/index.html",
@@ -200,7 +221,7 @@
     "href": "projects.html",
     "title": "Project gallery",
     "section": "",
-    "text": "Arctic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAoraki / Mt Cook\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntarctica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWaitaki catchment\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZealandia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRotorua lakes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSounds to Sounds\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Antarctica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAoraki / Mt Cook\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArctic\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLake Hawea\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLake Waikaremoana\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMt Karioi\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRotorua lakes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSounds to Sounds\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWaitaki catchment\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZealandia\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
