@@ -1,9 +1,0 @@
----
-title: "Contact us"
----
-::: banner5
-:::
-\
-Want to send us an email or place a custom order? Get in contact at <a href="mailto:info@kakapoindustries.com">info@kakapoindustries.com</a>
-
-We are located in Ōtautahi (Christchurch), New Zealand.
