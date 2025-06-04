@@ -1,0 +1,7 @@
+---
+title: "Aoraki / Mt Cook"
+---
+
+This 3D model embodies New Zealand's tallest mountain - Aoraki / Mt Cook.
+
+![](images/mt-cook.jpeg)

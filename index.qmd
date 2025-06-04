@@ -1,0 +1,24 @@
+---
+title: "Welcome."
+lightbox: true
+---
+
+::: banner
+:::
+
+\
+At **Kākāpō Industries**, we transform geospatial data into beautiful, tangible models of the natural world. Using precision 3D printing, we craft detailed topographic and bathymetric representations that honour the form and flow of Aotearoa’s landscapes.
+
+From braided rivers and coastal cliffs to alpine ridgelines and rolling hill country—our models turn digital terrain into physical artefacts you can hold, display, and explore.
+
+Whether you're an environmental scientist, engagement advisor, educator, or outdoor enthusiast, our work helps you:
+
+-   Visualise catchments and landforms with clarity
+
+-   Engage communities in environmental storytelling
+
+-   Support planning and decision-making
+
+-   Or simply celebrate the whenua in a new dimension
+
+**See the land. Feel the terrain. Tell the story.**

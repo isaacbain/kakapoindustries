@@ -1,0 +1,23 @@
+---
+title: "About us"
+---
+
+::: banner3
+:::
+
+\
+Kākāpō Industries (NZBN: [9429052266102](https://www.nzbn.govt.nz/mynzbn/nzbndetails/9429052266102/?sw=kakapo%20industries)) was founded by [Isaac Bain](www.isaacbain.com) out of a passion for turning New Zealand’s landscapes into tangible works of art. Based in **Ōtautahi / Christchurch**, we specialise in crafting **physical cartographic models**, with a particular focus on **3D topographic elevation models** that faithfully represent the contours of our whenua.
+
+Our work blends scientific precision with creative design, making our models ideal for:
+
+-   Environmental education
+
+-   Community and stakeholder engagement
+
+-   Public exhibitions and striking visual displays
+
+By combining Isaac’s background in environmental science and data visualisation with advanced 3D printing technology, we produce models that are both accurate and visually compelling.
+
+We're inspired by the kākāpō—a rare, resilient, and uniquely Aotearoa species. Like our namesake, we believe in thoughtful innovation and strengthening the connection between people and the natural world.
+
+Let us help you hold the land in your hands. 🌏

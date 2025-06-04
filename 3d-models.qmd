@@ -1,0 +1,70 @@
+---
+title: "Custom 3D topographic models"
+lightbox: true
+---
+
+![Waimakariri, Selwyn, Te Waihora, Takamatua, Rakaia catchments](images/canterbury-catchments.jpeg){fig-align="left" width="800"}
+
+## Custom 3D Terrain Models — Built Just for You
+
+At **Kākāpō Industries**, we create **bespoke 3D printed topographic and bathymetric models** tailored to your exact area of interest. Whether it's a **freshwater catchment**, **property parcel**, **management unit**, or another defined boundary, we can bring it to life in three dimensions.
+
+(We also occasionally stock a range of **ready-made models** in our [shop](#), available for immediate purchase.)
+
+## Why Choose Kākāpō Industries?
+
+We combine geospatial science with artisanal craftsmanship to produce accurate, compelling, and sustainable terrain models. Each piece is:
+
+-   🗺️ Built with high-resolution GIS datasets for spatial precision
+
+-   🌄 Rendered from detailed LiDAR elevation data for faithful terrain representation
+
+-   🧩 Custom-designed to match your specifications, whether simple or complex
+
+-   🌱 3D printed in full colour using eco-friendly PLA, derived from renewable plant sources
+
+::: column-margin
+![Tiffin Hill](images/tiffin.jpeg)
+:::
+
+## Who Uses Our Models?
+
+Over 100 clients across Aotearoa have trusted us to produce models for:
+
+-   Environmental planning and management
+
+-   Public consultation and community engagement
+
+-   Education, outreach, and scientific storytelling
+
+-   Striking, land-inspired art displays
+
+From regional councils and iwi authorities to researchers, teachers, and tramping clubs—our models are designed to inform, engage, and inspire.
+
+## How it works
+
+::: column-margin
+![Zealandia continent](images/zealandia.jpeg)
+:::
+
+**1 - Consultation**
+
+Share your area of interest—whether it’s a GPS location, a named catchment, or a custom boundary. We can also work from your shapefiles.
+
+**2 - Data Sourcing**
+
+We gather the best available national datasets, or use your supplied data, including elevation, rivers, landcover, roads, and more.
+
+**3 - Model Design**
+
+A 3D rendering is prepared and shared for your approval before printing. You’ll see exactly what your model will look like.
+
+**4 - Delivery**
+
+Your model is printed, packaged in plastic-free materials, and shipped anywhere in New Zealand.
+
+## Get Started!
+
+Let’s turn your landscape into a lasting, physical model.
+
+[Contact us](contact.qmd) today to discuss your needs and start your journey with **Kākāpō Industries**.

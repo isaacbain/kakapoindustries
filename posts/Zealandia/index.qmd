@@ -1,0 +1,7 @@
+---
+title: "Zealandia"
+---
+
+This combined topographic and bathymetric 3D model highlights the Earth's eighth continent - Zealandia / Te Riu-a-Māui.
+
+![](images/zealandia.jpeg)

@@ -1,0 +1,80 @@
+---
+title: "3D-printed models for catchment groups"
+lightbox: true
+---
+
+::: banner2
+:::
+
+\
+*Have you found your way here because you're part of a catchment group and interested in a 3D-printed topographic model of your catchment? If so, you're in the right place.*\
+
+## What's the point in a 3D printed model?
+
+In a previous [post](https://isaacbain.com/posts/upper-ruamahanga/), I described these models as a "*tangible, miniature representations of the landscape that you can hold in your hands*." They're definitely not going to change the world, but they might serve as a conversation starter as you gather around the table to talk about your environmental goals and aspirations.
+
+![Koukourarata / Port Levy, Te Roto o Wairewa / Lake Forsyth, Te Waihora / Lake Ellesmere](images/canterbury-models.jpg)
+
+These models offer a less abstract view of the landscape compared to a 2D paper map, focusing on elevation to reduce distractions. For visual thinkers, they can reveal connections and scales otherwise only visible from a helicopter.
+
+By mapping the entire catchment, the model embodies the concept of *Ki uta ki tai*—a te ao Māori perspective on integrated, indivisible land and river management, from the mountains to the sea.
+
+And they're just damn cool.
+
+## How big are they?
+
+::: column-margin
+![Puketoi FMU made up of Akitio, Owahanga and Wainui catchments](images/puketoi-separate.jpg)
+:::
+
+::: column-margin
+![Puketoi FMU assembled](images/puketoi-assembled.jpg)
+:::
+
+My standard sized model is around 200mm long. This is a good size to hold in your hand or pass around.
+
+If you want a bigger model, my printer can print up to \~300mm long in a single printed block. If you want larger than this, I can print multiple blocks which are either glued together or snap together with a dovetail joint. This is a bit more work, but it's definitely possible.
+
+Another option is to print multiple sub-catchments separately, the largest of which can take up the maximum size of the printer. If these sub-catchments are printed at a common scale, they should fit together like a jigsaw puzzle.
+
+## What's this going to cost me?
+
+Please [get in touch](https://isaacbain.com/contact) and I can provide a quote based on the complexity of the design. Pricing is heavily discounted for catchment groups and mainly designed to cover my consumable costs.
+
+I'm located in Christchurch and can post anywhere. Please allow 2-3 weeks lead time.
+
+::: column-margin
+![Whangateau](images/otama.jpeg)
+:::
+
+::: column-margin
+![Upper Ruamahanga](images/ruamahanga-model.png)
+:::
+
+## I Want Something Completely Custom—Can You Do That?
+
+Probably! Get in touch and let's figure it out. Some requests I’ve already had include:
+
+-   Larger prints comprised of multiple blocks
+-   Commercial projects for businesses or councils
+-   Personal requests for individuals
+-   Preparing files for laser cutting or CNC routing
+-   Sub-catchments that fit together like a jigsaw puzzle
+
+## Okay, I want one. How does the process work?
+
+::: column-margin
+![Ruakituri](images/ruakituri-model.jpeg)
+:::
+
+Fantastic! I'm here to help make this a reality. Here are the steps to consider:
+
+1.  **Location:** The catchment must be in New Zealand. Anywhere in New Zealand is fine, but very small catchments may require LiDAR data, which isn’t available everywhere.
+2.  **Define your area of interest:** This doesn’t have to be a hydrological catchment. It can be a square, circle, sub-catchment, FMU, or multiple catchments. Any contiguous boundary works.
+3.  **Obtain a shapefile:** It's easiest if you can provide a GIS shapefile (.shp) of your area of interest. Otherwise if it's a catchment, I can likely derive this for you.
+4.  **Get in touch:** Fill out this [Google form](https://forms.gle/nat3uHCC3ToFtX8j8):\
+    \
+
+```{=html}
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxTbwctyqajju26YE2D4qX685ynVbVqetHrwCosQPANzd90g/viewform?embedded=true" width="640" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+```

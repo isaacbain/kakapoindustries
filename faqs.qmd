@@ -1,0 +1,38 @@
+---
+title: "Frequently asked questions"
+lightbox: true
+---
+
+::: banner4
+:::
+
+\
+**What materials do you use for 3D printing?**
+
+We use **plant-based PLA filament**, made from renewable biomass sources like cornstarch or sugarcane. It’s durable, eco-friendly, and supports **multi-colour printing**—ideal for highlighting specific landscape features such as rivers, land boundaries, or zones.
+
+\
+**What is the typical size of a 3D model?**
+
+Every model is **custom-sized** to suit your requirements—from small desktop displays to **large-format, multi-part models**. We'll help you determine the best scale and dimensions during the consultation.
+
+\
+**How long does it take to create a model?**
+
+Most models are completed within **2–4 weeks**, depending on complexity, data availability, and print size. We'll confirm your timeline as part of the initial project scoping.
+
+\
+**Can you customise the model features (e.g., points of interest, colours)?**
+
+Absolutely. We can highlight **monitoring sites, catchments, land use zones, or infrastructure** using custom colour palettes or added markers. Just let us know what matters to your audience.
+
+\
+**How do you ensure sustainability?**
+
+Sustainability is at the core of both our materials and our ethos.
+
+-   We print locally in Aotearoa using bio-based PLA
+
+-   Packaging uses recycled and paper-based materials—no bubble wrap
+
+-   Shipping is done in recyclable or compostable courier bags

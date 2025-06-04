@@ -1,0 +1,65 @@
+---
+title: "3D-printed models for regional councils"
+lightbox: true
+---
+
+![Hawke's Bay Regional boundary elevation model, with rivers, streams and lakes.](images/hbrc.jpeg){fig-align="left" width="500"}
+
+## 3D-Printed Terrain Models for Regional Councils
+
+At **Kākāpō Industries**, we partner with regional councils across Aotearoa to create **highly detailed 3D printed models** that support community engagement, environmental planning, and long-term stewardship of natural resources.
+
+These models offer an innovative, tactile way to **communicate spatial data**, helping your teams better connect with stakeholders, whānau, and the wider public.
+
+## Why Use 3D Models for Engagement?
+
+::: column-margin
+![Otago and Southland regions](images/otago-southland.jpeg)
+:::
+
+Conventional GIS maps and technical reports can be difficult for non-specialists to interpret. Physical 3D models create a bridge—transforming complex data into a format that is:
+
+-   🧠 Intuitive – Easily understood by diverse audiences
+
+-   👁️ Visual – Eye-catching and memorable in public spaces
+
+-   📚 Educational – Ideal for workshops, hui, and exhibitions
+
+They foster understanding of environmental challenges such as erosion, water quality, flood risks, and biodiversity loss—grounded in the actual terrain people live in.
+
+## Applications for Regional Councils
+
+Our models are being used by councils for:
+
+::: column-margin
+![Pokaiwhenua catchment](images/pokaiwhenua.jpeg)
+:::
+
+-   **Catchment Management**: Showcasing sedimentation patterns, riparian areas, and hydrological flow.\
+-   **Land Use Planning**: Illustrating proposed zoning, infrastructure, or conservation interventions.\
+-   **Climate Change Adaptation**: Communicating the impacts of sea-level rise or flooding on local landscapes.\
+-   **Biodiversity Initiatives**: Highlighting habitats, planting corridors, and ecological values.
+
+## What Sets Us Apart
+
+We combine high-resolution GIS and LiDAR data with multi-colour 3D printing to create models tailored to your region and objectives. Every model is:
+
+🗺️ Customised to match your spatial units (e.g. FMUs, catchments, zones)
+
+🧩 Printable in modular pieces for easy transport and targeted engagement
+
+♻️ Made with eco-friendly PLA from renewable plant-based sources
+
+🏢 Suitable for consultation events, classrooms, and permanent displays
+
+## Freshwater management units
+
+::: column-margin
+![Hawke's Bay region separated into 11 FMUs](images/hbrc-pieces.jpeg)
+:::
+
+We specialise in producing multi-part terrain models, such as freshwater management units printed at the same scale. These can be pieced together like a jigsaw or taken individually to local workshops and community hui.
+
+## Let’s Work Together
+
+Whether you're preparing for a regional plan review, public consultation, or science communication initiative, our 3D models offer a powerful, people-friendly way to visualise place and process. [Contact us](contact.qmd) to discuss your project. We’re happy to liaise directly with your GIS team, and can work with a wide range of formats and projections.

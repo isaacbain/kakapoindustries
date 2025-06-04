@@ -1,0 +1,74 @@
+---
+title: "3D Printing Services for GIS Professionals"
+lightbox: true
+---
+
+![Northern Tauranga Harbour, draining 8 catchments with separate colours for native vegetation, roads, and mud flats.](images/northern-tauranga.jpeg){fig-align="left" width="500"}
+
+## Already working with spatial data? Let us help you turn it into something tangible.
+
+At Kākāpō Industries, we provide a streamlined, professional 3D printing service specifically for GIS analysts, cartographers, and spatial data professionals. Whether you're seeking a complete end-to-end solution, or simply need a trusted partner to print a model you've designed, we offer tailored services to suit your technical capabilities and project needs.
+
+## Option 1: From Shapefiles to 3D Model
+
+### Provide your spatial datasets — we’ll do the rest.
+
+This full-service option is ideal if you have GIS expertise but want to outsource the 3D design and printing. Simply send us your shapefiles, GeoTIFFs, or other spatial layers, and we’ll create a bespoke, print-ready terrain model using high-resolution DEM and LiDAR data, styled and scaled to your specifications.
+
+We handle:
+
+-   Catchment delineation or use of supplied polygons
+
+-   Terrain extraction and downsampling
+
+-   Integration of rivers, roads, land use, and other vector layers
+
+-   Elevation exaggeration, colouring, and terrain smoothing
+
+-   Multi-part tiling for large format models
+
+Deliverables:
+
+-   3D printed, physical model shipped to your door
+
+-   Optional: STL or OBJ files for digital preview or reuse
+
+-   Optional: Digital renders with satellite imagery drape.
+
+## Option 2: Print-Ready File? We’ll QA + Print It
+
+### Already building your own terrain models using tools like Blender, QGIS, or GIS-to-STL workflows? We offer a QA/QC + print-only service for advanced users.
+
+You send us your STL (or equivalent) file, and we:
+
+-   Check for thin walls, overhangs, and other printability issues
+
+-   Fix non-manifold edges or slicing errors
+
+-   Optimise the file for multi-colour FDM printing
+
+-   Print in your choice of material and scale
+
+This is ideal for:
+
+-   Academic researchers producing custom site models
+
+-   GIS teams building outreach tools
+
+-   Environmental consultants visualising terrain data
+
+## Why Work with Us?
+
+-   🗺️ Built for spatial data – We understand coordinate systems, raster/vector layers, DEMs, and shapefile quirks
+
+-   🎨 Design + aesthetics – Models are both accurate and visually engaging, ideal for communication and display
+
+-   ♻️ Sustainable printing – We use plant-based PLA and recyclable packaging
+
+-   🇳🇿 NZ-based – Fast turnaround and easy collaboration with local teams
+
+## Get in Touch
+
+Ready to elevate your spatial work into the third dimension?
+
+📨 [Contact us](contact.qmd) to discuss your project, share files, or request a quote. We’re happy to collaborate directly with GIS teams and can work with a wide range of formats including .shp, .gpkg, .tif, .stl, and .obj.
