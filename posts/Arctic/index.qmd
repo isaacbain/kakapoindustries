@@ -1,0 +1,7 @@
+---
+title: "Arctic"
+---
+
+A complementary pairing to the Antarctica model, this 3D topo/bathy model displays the Arctic north.
+
+![](images/arctic.jpeg)

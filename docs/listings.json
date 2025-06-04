@@ -2,10 +2,13 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/posts/Arctic/index.html",
       "/posts/Mt-Cook/index.html",
       "/posts/Antarctica/index.html",
+      "/posts/Waitaki/index.html",
       "/posts/Zealandia/index.html",
-      "/posts/Rotorua-lakes/index.html"
+      "/posts/Rotorua-lakes/index.html",
+      "/posts/Sounds-to-Sounds/index.html"
     ]
   }
 ]
